@@ -38,7 +38,7 @@ function MainDashboardNav({ onMenuClick, selectedPage, role}) {
                 </div>
 
                 <div className="main_nav_title">
-                <p className="mt-2 gold_title"><strong>THE GOLD PANICLES</strong></p>
+                <p className="mt-2 gold_title"><strong>THE BUZZ NEWS</strong></p>
                 </div>
 
                 <div className="main_nav_dblogo ms-5">

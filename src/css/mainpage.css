@@ -201,7 +201,7 @@ body {
             .main_admin_body_col1{
               height: 100%;
               width: 30%;
-              background-color: #0F0F0F;
+              background-color: #8C1007;
               display: flex;
               flex-direction: column;
               justify-content: center;
@@ -213,11 +213,11 @@ body {
               .main_nav1{
                     height: 15%;
                     width: 100%;
-                    background-color: #000000;
+                    background-color: #8C1007;
                     display: flex;
               }
                         .main_nav_logo{
-                          height: 60%;
+                          height: 90%;
                           width: 25%;
                           margin: 20px 0 0 30px;
                         }
@@ -228,12 +228,12 @@ body {
                         .main_nav_title{
                           height: 30%;
                           width: 45%;
-                          background-color: #000000;
+                          background-color: #8C1007;
                           margin-top: 55px;
                           margin-left: -20px;
                         }
                             .main_nav_title p{
-                              color: #D8BC59;
+                              color: #FFF0C4;
                               font-family: 'Bebas Neue', sans-serif;
                               letter-spacing: 2px;
                               font-size: 20px;
@@ -243,7 +243,7 @@ body {
                         .main_nav_dblogo{
                           height: 50px;
                           width: 50px;
-                          background-color: rgb(0, 0, 0);
+                          background-color: #8C1007;
                           margin-top: 50px;
                         }
                               .main_nav_dblogo span{
@@ -274,14 +274,14 @@ body {
                     flex-direction: column;
                     align-items: center;
                     gap: 10px;         
-                    background-color: #000000;       
+                    background-color: #8C1007;       
               }
                         .main_nav2 span{
                           display: flex;
                           margin: 0 auto;
                           height: 8%;
                           width: 90%;
-                          background-color: #373737;
+                          background-color: #3E0703;
                           padding: 10px 20px;
                           border-radius: 8px;
                           color: #ffffff;
@@ -299,7 +299,7 @@ body {
               .main_nav3{
                     height: 12%;
                     width: 100%;
-                    background-color: rgb(0, 0, 0);
+                    background-color: #8C1007;
                     display: flex;
                     align-items: center;
               }
@@ -310,7 +310,7 @@ body {
                     display: flex;
                     align-items: center;
                     gap: 30px;
-                    background-color: #373737;
+                    background-color: #3E0703;
                     border-radius: 8px;
               }
               .main_nav3 span p{
@@ -366,7 +366,7 @@ body {
                         .mainbodyrow2_col1{
                           height: 90%;
                           width: 45%;
-                          background-color: aquamarine;
+                          background-color: rgb(255, 255, 255);
                           border-radius: 5px;
                         }
                                   .online_users{
@@ -380,7 +380,7 @@ body {
                         .mainbodyrow2_col2{
                           height: 32%;
                           width: 21%;
-                          background-color: antiquewhite;
+                          background-color: #FFF0C4;
                           border-radius: 5px;
                         }
                
@@ -430,7 +430,7 @@ body {
 .requestbody{
     height: 95%;
     width: 100%;
-    background-color: #aca950;
+    background-color: #FFF0C4;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -455,7 +455,7 @@ body {
       .pendingrequest{
         height: 90%;
         width: 90%;
-        background-color: antiquewhite;
+        background-color: rgb(252, 252, 252);
         margin: 0px auto;
         border-top: 2px solid rgb(151, 147, 147);
       }
